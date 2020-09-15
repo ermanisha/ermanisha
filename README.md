@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I am Manisha Sharma.I Have completed my BE in Computer Engineering from TCET.I like solving problems and building projects using various technologies.Currently I am trying to master Data Science and Webtechnologies. **
+**I am Manisha Sharma.I Have completed my BE in Computer Engineering from TCET.I like solving problems and building projects using various technologies.Currently I am trying to master Data Science and Webtechnologies.**
 
 - 🔭 I’m currently working on Data Science projects.
 - 🌱 I’m currently learning Datascience and Open cv
